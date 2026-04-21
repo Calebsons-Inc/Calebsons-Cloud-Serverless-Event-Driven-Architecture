@@ -1,0 +1,13 @@
+{
+    "event_id": "evt-0002",
+    "event_type": "order.updated",
+    "timestamp": "2026-04-20T12:05:00Z",
+    "data": {
+        "order_id": "O-1001",
+        "customer": "alice",
+        "changes": {
+            "amount": 55.00,
+            "status": "confirmed"
+        }
+    }
+}

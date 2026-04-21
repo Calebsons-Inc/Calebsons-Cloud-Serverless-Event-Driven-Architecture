@@ -1,11 +1,20 @@
-# Ignore everything in the repo
-/*
+# Python virtual environment
+.venv/
 
-# Except the .gitignore itself
-!.gitignore
+# CDK
+cdk.out/
 
-# Except README files
-!README.md
-!README
-!readme.md
-!readme
+# Node
+node_modules/
+
+# Env files
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/

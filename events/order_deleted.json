@@ -1,0 +1,10 @@
+{
+    "event_id": "evt-0003",
+    "event_type": "order.deleted",
+    "timestamp": "2026-04-20T12:10:00Z",
+    "data": {
+        "order_id": "O-1001",
+        "customer": "alice",
+        "reason": "customer_cancelled"
+    }
+}

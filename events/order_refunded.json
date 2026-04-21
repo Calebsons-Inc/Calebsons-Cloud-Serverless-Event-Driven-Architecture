@@ -1,0 +1,10 @@
+{
+    "event_id": "evt-0004",
+    "event_type": "order.refunded",
+    "timestamp": "2026-04-20T12:15:00Z",
+    "data": {
+        "order_id": "O-1001",
+        "customer": "alice",
+        "amount": 55.00
+    }
+}

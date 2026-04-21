@@ -1,0 +1,17 @@
+{
+  "name": "calebsons-cloud-serverless-event-driven-architecture-infra",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "build": "tsc",
+    "synth": "cdk synth"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "2.161.1",
+    "constructs": "^10.3.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}

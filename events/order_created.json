@@ -1,0 +1,14 @@
+{
+    "event_id": "evt-0001",
+    "event_type": "order.created",
+    "timestamp": "2026-04-20T12:00:00Z",
+    "data": {
+        "order_id": "O-1001",
+        "customer": "alice",
+        "items": [
+            {"sku": "SKU-A", "qty": 2},
+            {"sku": "SKU-B", "qty": 1}
+        ],
+        "amount": 42.50
+    }
+}
